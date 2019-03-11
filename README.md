@@ -1,0 +1,3 @@
+# springboot-
+通用的全局异常处理和参数校验
+只需要在需要的controller加上@ParamValidate这个注解即可
